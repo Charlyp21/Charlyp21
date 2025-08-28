@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Charly, I am currently studyng **neuroscience** bachelor degree at **National Autonomous University of Mexico**! 🧠
+
+I'm interested in data science and **neurotech**, specially **BCI** and **computacional models for research**. Also I like open science and open source projects.
+
+If you are looking for someone to collaborate in a neuroscience or neurotech project contact me. 😎
 <!--
 **Charlyp21/Charlyp21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,21 +1,11 @@
-## Hi there 👋
+# Charly | Neuroscience student @UNAM
 
-I'm Charly, I am currently studyng **neuroscience** bachelor degree at **National Autonomous University of Mexico**! 🧠
+---
 
-I'm interested in data science and **neurotech**, specially **BCI** and **computacional models for research**. Also I like open science and open source projects.
+**Aspiring Neurotechnology Researcher & Computational Neuroscientist 🧠.**
 
-If you are looking for someone to collaborate in a neuroscience or neurotech project contact me. 😎
-<!--
-**Charlyp21/Charlyp21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***Interested in BCI, mathemathical modelling and cognition.***
 
-Here are some ideas to get you started:
+- Languages: Python (NumPy, Pandas, Matplotlib, Seaborn, Scipy).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Environment: EndeavourOS (Linux), Git/GitHub, VS Code

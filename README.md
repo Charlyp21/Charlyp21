@@ -2,9 +2,11 @@
 
 ---
 
-**Aspiring Neurotechnology Researcher & Computational Neuroscientist 🧠.**
+**Aspiring Computational Neuroscientist & Neurotechnology Researcher 🧠.**
 
 ***Interested in BCI, mathemathical modelling and cognition.***
+
+***I'm also really into open source and open science projects***
 
 ### Technologies I use
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
